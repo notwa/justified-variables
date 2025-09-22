@@ -1196,6 +1196,9 @@ gladly accepted.
 - incoming
   outgoing
 
+- prologue  [Calling conventions]
+  epilogue
+
 - constant
   variable
 
